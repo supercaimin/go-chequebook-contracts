@@ -1,4 +1,4 @@
-module go-chequebook-contracts
+module github.com/supercaimin/go-chequebook-contracts
 
 go 1.16
 
